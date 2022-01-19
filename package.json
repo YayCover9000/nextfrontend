@@ -10,7 +10,8 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "keycloak-js": "^16.1.0",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "yarn": "^1.22.17"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
